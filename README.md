@@ -4,7 +4,9 @@
 python -m venv ./venv
 
 # # Activate virtual environment
+
 source ./venv/bin/activate #(linux/mac users)
+
 venv\Scripts\activate #(windows users)
 
 # # Install dependencies
